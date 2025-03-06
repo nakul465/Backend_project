@@ -1,0 +1,65 @@
+[
+  {
+    "petName": "manish",
+    "age": "12",
+    "area": "jkbcaj",
+    "justification": "good",
+    "email": "nakularora465@gmail.com",
+    "phone": "9255294455",
+    "petType": "dog"
+  },
+  {
+    "petName": "manish2.0",
+    "age": "10",
+    "area": "jkbcaj",
+    "justification": "ndsm",
+    "email": "manish0649.be23@chitkara.edu.in",
+    "phone": "9255294455",
+    "petType": "other"
+  },
+  {
+    "petName": "Goofy",
+    "age": "5",
+    "area": "Rajpura",
+    "justification": "He is a good dog",
+    "email": "nakul@gmail.com",
+    "phone": "9494893900",
+    "petType": "dog"
+  },
+  {
+    "petName": "Bruno",
+    "age": "9",
+    "area": "Sonipat",
+    "justification": "Bad dog",
+    "email": "nakul@gmail.com",
+    "phone": "7654321908",
+    "petType": "dog"
+  },
+  {
+    "petName": "Lucy",
+    "age": "1",
+    "area": "Chandigarh",
+    "justification": "Good kitty",
+    "email": "manish@gmail.com",
+    "phone": "9276854657",
+    "petType": "cat"
+  },
+  {
+    "petName": "Nugget",
+    "age": "0.5",
+    "area": "USA",
+    "justification": "Imported",
+    "email": "Manish@gmail.com",
+    "phone": "9876543210",
+    "petType": "bird"
+  },
+  {
+    "petName": "Goldy",
+    "age": "2",
+    "area": "Mysore",
+    "justification": "good pet",
+    "email": "Nakul123@gmail.com",
+    "phone": "8760876543",
+    "petType": "dog"
+  }
+]

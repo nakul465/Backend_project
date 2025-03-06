@@ -1,0 +1,81 @@
+/* Navbar Container */
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    top: 10px;
+    width: 100%;
+    background: transparent;
+    padding: 10px 20px;
+    z-index: 1000;
+}
+
+/* Logo Styling */
+.logo-container {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo {
+    height: 40px;
+    width: auto;
+}
+
+.logo-text {
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+}
+
+/* Centered Navbar Links */
+.navbar {
+    display: flex;
+    gap: 20px;
+    background: rgba(255, 255, 255, 0.2);
+    padding: 10px 20px;
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+}
+
+.navbar-item {
+    color: black;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Hover effect */
+.navbar-item:hover {
+    background-color: orange;
+    color: white;
+}
+
+/* Active Link (Current Page) */
+.navbar-item.active {
+    background-color: orange;
+    color: white;
+}
+
+/* "Give a Pet" Button (Fixed Styling) */
+.give-pet-button {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+    margin-right: 40px; /* Keeps it aligned */
+}
+
+.give-pet-button:hover {
+    background-color: darkorange;
+}
